@@ -1,0 +1,54 @@
+难度适中
+1634 1014 1154 1145 1147 
+1129 1119 1190 1293 1510 
+1157 1200 1324 1341 1325 
+1232 1433 1636 1795 1259 
+1623 1815 1701 1691 1765 
+1566 1511 1818 1741 1960 
+1813 1959 1388 1626 1625 
+
+难度较大
+1194 1007 1087 1561 1294
+
+【编程入门】
+
+sicily 1144 陶陶摘苹果. 简单计数，难度0 
+sicily 1145 校门外的树. 简单计数，难度0 
+sicily 1232 Electrical Outlets. 简单计数，难度0
+
+sicily 1388 Quicksum. 简单计数，难度0
+sicily 1324 Score. 简单计数，难度0
+sicily 1157 The hardest problem. 简单大小比较，难度0
+
+sicily 1147 谁拿了最多奖学金. 结构体、数组、分支，难度1
+
+sicily 1795 Table tennis, 几何题, 难度
+
+sicily 1798 Alice and Bob, 策略, 难度1
+
+sicily 1087 Funny game.  简单策略. 难度1
+
+sicily 1510 Mispelling, 字符串, 难度0
+
+sicily 1500 Prime Gap. 求小于给定整数的最大素数. 难度1.
+
+sicily 1561 PRIME Number. 难度1
+
+sicily 1007 To and Fro, 数组与下标（二维数组）, 难度1
+
+sicily 1036 Crypto Columns, 二维数组,字符串,排序, 难度1
+sicily 1014, Specialized Four-Dig, 进制转换,字符串, stack, 难度 1
+
+sicily 1813 M进制数问题, 难度 1
+
+sicily 1298 数制转换. 把整数转换成特殊3进制. 难度1.
+sicily 1325 Digit Generator. 提取整数各位数字. 难度0 
+
+sicily 1154 easy sort. 简单排序. 难度0
+sicily 1814 日期计算问题 
+sicily 1815 计算两点间的距离 
+
+sicily 1816 平面几何问题 
+sicily 1817 校歌手大奖赛 
+sicily 1818 成绩转换
+
