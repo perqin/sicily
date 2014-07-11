@@ -5,7 +5,9 @@
 // All Copyright reserved by Informatic Lab of Sun Yat-sen University
 #include<iostream>
 #include<string>
-using namespace std;
+using std::cin;
+using std::cout;
+using std::string;
 
 int mod(string divided, int divisor) {
   int p = 0, tmp = 0;
@@ -37,7 +39,7 @@ int main() {
       cout << mod(x, b[i]);
     }
     cout << ')' << endl;
-
   }
   return 0;
 }
+

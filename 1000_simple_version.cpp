@@ -4,7 +4,8 @@
 // URI: http://creativecommons.org/licenses/by-nc-sa/3.0/
 // All Copyright reserved by Informatic Lab of Sun Yat-sen University
 #include<iostream>
-using namespace std;
+using std::cin;
+using std::cout;
 
 int main() {
   int a, b;
@@ -14,3 +15,4 @@ int main() {
 
   return 0;
 }
+
