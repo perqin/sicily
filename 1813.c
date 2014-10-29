@@ -1,7 +1,7 @@
-// 1813.cpp: http://soj.me/1813
+// Copyright (c) 2014 Junjie_Huang@SYSU(SNO:13331087). All Rights Reserved.
+// 1813.c: http://soj.me/1813
 // change an M system to demical system to calculate and then change to M
 // system to present
-// Copyright (c) 2014 Junjie_Huang@SYSU(SNO:13331087). All Rights Reserved.
 #include <iostream>
 #include <string>
 #include <cmath>
